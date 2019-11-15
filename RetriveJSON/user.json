@@ -1,0 +1,16 @@
+[{
+    "FirstName":"mahmoud",
+    "LastName":"Kaboh",
+    "age":24,
+    "Languages":["html","c#","java"],
+    "address":{
+        "menouf":"ssss",
+        "shebin":"cccc",
+        "egypt":"eeee",
+        "germany":{
+            "berlin":"kam",
+            "munch":"mmmm"
+        }
+    },
+    "work":false
+}]
